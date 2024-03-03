@@ -19,3 +19,10 @@ Your objective is to fill every row, column, and 3x3 sub-grid with numbers from 
 <li>Hit submit once completed.</li>
 <li>Hit reset to start a new puzzle at the same difficulty.</li>
 </ul>
+    
+<p align="center">
+ <b>Application Screenshot</b>
+</p>
+<p align="center">
+ <img width="500" src="https://res.cloudinary.com/dhpo94oka/image/upload/v1709483691/Github/Sudoku/ukqsyfyquerzhiuoqexo.png" alt="Sudoku">
+</p>
